@@ -1,0 +1,687 @@
+[
+  {
+    "identifier": "doi:10.5061/dryad.1zcrjdfv9",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Flower plantings support wild bee reproduction and may also mitigate pesticide exposure effects)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.dz08kps3f",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Bees exposed to climate change are more sensitive to pesticides)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.b2t08b6",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Quantifying the impact of pesticides on learning and memory in bees)."
+  },
+  {
+    "identifier": "doi:10.25338/B83P6K",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Pesticide and resource stressors additively impair wild bee reproduction)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.zcrjdfnmw",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Nutrition, pesticide exposure, and virus infection interactions in honey bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.9ghx3ffnf",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Toxic temperatures: Bee behaviours exhibit divergent pesticide toxicity relationships with warming)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.4j0zpc8mh",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Insecticide exposure alters flight-dependent gene-expression in honey bees, Apis mellifera)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.vdncjsxxz",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Bumblebees can be exposed to the herbicide glyphosate whilst foraging)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.b2rbnzsp6",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Single and combined exposure to ‘bee safe’ pesticides alter behaviour and offspring production in a ground-nesting solitary bee (Xenoglossa pruinosa))."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.kc680",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Neonicotinoid pesticides and nutritional stress synergistically reduce survival in honey bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.5f87k5v",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Lethal and sublethal synergistic effects of a new systemic pesticide, flupyradifurone (Sivanto®) on honey bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.t5n3t",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Negative effects of pesticides on wild bee communities can be buffered by landscape context)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.7m0cfxq0j",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Impacts of neonicotinoid insecticides on bumble bee energy metabolism are revealed under nectar starvation)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.qrfj6q5vj",
+    "category": "model_code",
+    "reason": "This record provides a pesticide-specific population, exposure-risk, or simulation model rather than measured chemical-response labels (Incorporating a nectar-based pesticide module into BeeHave, an agent-based model of honey-bee population dynamics)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.7pvmcvf8p",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Can near-infrared exposure help mitigate pesticide-impaired thermoregulation in adult bees?)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.s3j0n",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Investigating the impacts of field-realistic exposure to a neonicotinoid pesticide on bumblebee foraging, homing ability and colony growth)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.kv558",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Chronic impairment of bumblebee natural foraging behaviour induced by sublethal pesticide exposure)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.vx0k6dk34",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Insecticide exposure alters feeding and impairs ovary development in a solitary bee)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.stqjq2c69",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Nutritional stress exacerbates impact of a novel insecticide on solitary bees’ behaviour, reproduction and survival)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.mkkwh70v8",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Sulfoxaflor exposure reduces egg laying in bumblebees (Bombus terrestris))."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.ncjsxkt3b",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Agricultural intensification impairs behavioral abilities and the expression of genes associated with social responsiveness in honey bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.wh70rxwxk",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (A test method for assessing chronic oral toxicity of a pesticide to solitary nesting orchard bees, Osmia spp. (Hymenoptera: Megachilidae))."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.73n5tb33d",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Diverse pollen nutrition can improve the development of solitary bees but does not mitigate negative pesticide impacts)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.jq2bvq8dw",
+    "category": "exclude",
+    "reason": "The abstract concerns Exploring relationships between time of day and pollinator activity in the context of pesticide use - data and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.6086/D10Q22",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Pollen diet mediates how pesticide exposure impacts brain gene expression in nest-founding bumble bee queens)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.63xsj3v72",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Cognitive scores of bees exposed to various environmental stressors)."
+  },
+  {
+    "identifier": "doi:10.6086/D1FX0D",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Pollinators and plant nurseries: how irrigation and pesticide treatment of native ornamental plants impact solitary bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.1g1jwsv54",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Co-exposure to a honeybee pathogen and an insecticide: Synergistic effects in a new solitary bee host but not in Apis mellifera)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.87p3dd7",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Modality-specific impairment of learning by a neonicotinoid pesticide)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.1rn8pk0q4",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Increasing agricultural habitat reduces solitary bee offspring number and weight in apple orchards through reduced floral diet diversity and increased fungicide risk)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.280gb5mw0",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Examining the effects of multistage pesticide exposure on bumblebee queen survival and reproduction)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.1805c973",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Neonicotinoid pesticide reduces bumblebee colony growth and queen production)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.rxwdbrvjv",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Pesticide and pathogen exposure causes idiosyncratic gene expression responses across four diverse North American bumble bee species)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.z612jm6kz",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Influence of agricultural intensification on pollinator pesticide exposure, food acquisition and diversity)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.547d7wmfs",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (R code for: Following regulation, imidacloprid persists and flupyradifurone increases in non-target wildlife)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.rbnzs7hhc",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Direct and indirect effects of urbanization, pesticides, and wild insect pollinators on mango yield)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.gd702q0",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Pesticide exposure affects flight dynamics and reduces flight endurance in bumblebees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.fg1r11d",
+    "category": "model_code",
+    "reason": "This record provides a pesticide-specific population, exposure-risk, or simulation model rather than measured chemical-response labels (Data from: Risk of potential pesticide use to honeybee and bumblebee survival and distribution: a country-wide analysis for The Netherlands)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.tdz08kqd5",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Sweet products, subtle residues: Neonicotinoid contaminations in commercial honey from Thailand)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.mcvdncjwp",
+    "category": "exclude",
+    "reason": "The abstract measures pesticide effects in locusts rather than bees, so it is outside this bee-response dataset screen."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.15264",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Chronic neonicotinoid pesticide exposure and parasite stress differentially affects learning in honeybees and bumblebees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.k0p51",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Pollination mitigates cucumber yield gaps more than pesticide and fertilizer use in tropical smallholder gardens and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.wwpzgmssv",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Development of a test design for a semi-field, colony feeding study for the common eastern bumble bee (Bombus impatiens [Hymenoptera:Apidae]))."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.xsj3tx9rj",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Integrative assessment of sulfoxaflor effects on gene expression, reproduction, and behavior in the bumblebee Bombus impatiens)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.w9ghx3g2r",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data and code for: Bee swimming is adaptive but disrupted by insecticide)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.gf774",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Climate change impacts on bumblebees converge across continents and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.63xsj3tzp",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Insecticide exposure during brood or early-adult development reduces brain growth and impairs adult learning in bumblebees)."
+  },
+  {
+    "identifier": "doi:10.25338/B8GK8Q",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Past insecticide exposure reduces bee reproduction and population growth rate)."
+  },
+  {
+    "identifier": "doi:10.7280/D14T2K",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (The direct and indirect effects of environmental toxicants on the health of bumble bees and their microbiomes)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.80gb5mkqn",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Roundup causes high levels of mortality following contact exposure)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.kwh70rz5q",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Low toxicity crop fungicide (Fenbuconazole) impacts reproductive male quality signals leading to a reduction of mating success in a wild solitary bee)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.245kq",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Impact of controlled neonicotinoid exposure on bumblebees in a realistic field setting)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.895pn6p",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Combined exposure to sublethal concentrations of an insecticide and a fungicide affect feeding, ovary development and longevity in a solitary bee)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.nd1bh1t",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Fungicide suppression of flight performance in the honey bee (Apis mellifera) and its amelioration by quercetin)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.rv15dv4f4",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Consumption of pollen contaminated with field-realistic concentrations of fungicide cause sub-lethal effects in common eastern bumble bee (Bombus impatiens [Hymenoptera]: [Apidae]) microcolonies)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.mw6m9064f",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Bumblebees prefer sulfoxaflor contaminated food and show caste-specific differences in sulfoxaflor sensitivity)."
+  },
+  {
+    "identifier": "doi:10.6086/D1K96Q",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Sugar content of diet does not buffer against chronic oral imidacloprid exposure in the alfalfa leafcutting bee, Megachile rotundata (Hymenoptera: Megachilidae))."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.h3c18",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: General and species-specific impacts of a neonicotinoid insecticide on the ovary development and feeding of wild bumblebee queens)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.676ng",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Comparing bee species responses to chemical mixtures: common response patterns?)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.83bk3j9w3",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Phytochemical profiles of honey bees (Apis mellifera) and their larvae differ from the composition of their pollen diet)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.gqnk98sxt",
+    "category": "exclude",
+    "reason": "The abstract concerns Answering key bumble bee conservation questions by studying discovered wild nests: A Bombus affinis case study and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.j6q573nt5",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Interactions of husbandry, landscape, and immunity in regulating viral loads for managed honey bees and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.r4xgxd2nk",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Field-realistic exposure to the novel insecticide flupyradifurone reduces reproductive output in a bumblebee (Bombus impatiens))."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.j3tx95xvf",
+    "category": "exclude",
+    "reason": "The abstract concerns Influence of worker traits and pollen provisions on bumble bee (Hymenoptera: Apidae) microcolony test performance and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.1jwstqjx5",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: No evidence for impaired solitary bee fitness following pre-flowering sulfoxaflor application alone or in combination with a common fungicide in a semi-field experiment)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.4f6t3b5",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Foraging bumblebees acquire a preference for neonicotinoid-treated food with prolonged exposure)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.0gb5mkkxw",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (No evidence for neonicotinoid preferences in the bumblebee Bombus impatiens)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.w3r2280pg",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Testing the multiple stressor hypothesis: chlorothalonil exposure alters transmission potential of a bumblebee pathogen but not individual host health)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.gxd254828",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data and code from: Insecticides alter wild and managed pollination dynamics on oil crop yield)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.8rf3j",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: A heterogeneous landscape does not guarantee high crop pollination and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.np5hqbzp5",
+    "category": "exclude",
+    "reason": "The abstract concerns Data S1 from \"Global scale drivers of crop visitor diversity and the historical development of agriculture.\" and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.ft3tq32",
+    "category": "model_code",
+    "reason": "This record provides a pesticide-specific population, exposure-risk, or simulation model rather than measured chemical-response labels (Data from: Bumble-BEEHAVE: a systems model for exploring multifactorial causes of bumblebee decline at individual, colony, population and community level)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.vb06d3k",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Low dose of neonicotinoid insecticide reduces foraging motivation of bumblebees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.612jm644g",
+    "category": "exclude",
+    "reason": "The abstract concerns Positive forest cover effects on coffee yields are consistent across regions and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.nzs7h450q",
+    "category": "exclude",
+    "reason": "The abstract concerns Influence of environmental covariates on pollinator community occupancy, detection, and richness across urban gardens in Richmond, Virginia (U.S.A.) and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.25338/B8864J",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Bee-associated fungi mediate effects of fungicides on bumble bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.6hdr7srbc",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Fungicide consumption exacerbates the negative effects of a common gut parasite in bumble bee)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.jh9w0vth8",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Synergistic negative effects between a fungicide and high temperatures on homing behaviours in honey bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.b6063f5",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Omnivory in bees: elevated trophic positions among all major bee families and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.tht76hf2s",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Disease management during bloom affects the floral microbiome but not pollination in a mass-flowering crop)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.p039j",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Chronic exposure to neonicotinoids reduces honey bee health near corn crops)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.qnk98sfg4",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Pollinators mediate floral microbial diversity and network under agrochemical disturbance)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.7d7wm37r0",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (The weakest link: Haploid honey bees are more susceptible to neonicotinoid insecticides)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.gmsbcc2p8",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data for synergistic and antagonistic interactions between Varroa destructor mites and neonicotinoid insecticides in male Apis mellifera honey bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.pvmcvdnwt",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Bait sprays combined with insecticides targeted at Drosophila suzukii have negligible impacts on non-target insects compared to full foliar spray applications)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.ht76hdrh4",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Honeybee optomotor behaviour is impaired by chronic exposure to insecticides)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.95x69p8nt",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data for: Negative but antagonistic effects of neonicotinoid insecticides and ectoparasitic mites Varroa destructor on Apis mellifera honey bee food glands)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.wdbrv15n7",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Floral resource diversification promotes solitary bee reproduction and may offset insecticide effects – evidence from a semi-field experiment)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.nvx0k6dsh",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Thiamethoxam as an inadvertent anti-aphrodisiac in male bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.j0zpc86k5",
+    "category": "exclude",
+    "reason": "The abstract concerns Local habitat type influences bumble bee pathogen loads and bee species distribution and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.vmcvdncpn",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Honey bees and neonicotinoid-treated corn seed: contamination, exposure, and effects)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.573n5tb63",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (No impact of neonicotinoids on male solitary bees Osmia cornuta under semi-field conditions)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.djh9w0vzq",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (The neonicotinoid thiamethoxam impairs male fertility in solitary bees, Osmia cornuta)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.0vt4b8gxj",
+    "category": "exclude",
+    "reason": "The abstract concerns Bumble bees in landscapes with abundant floral resources have lower pathogen loads and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.pp127",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Planting of neonicotinoid-treated maize poses risks for honey bees and other non-target organisms over a wide area without consistent crop yield benefit)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.913qd93",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Honey bee dietary neonicotinoid exposure is associated with pollen collection from agricultural weeds)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.m905qfv27",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Seasonal bee communities vary in their responses to resources at local and landscape scales: Implication for land managers and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.4df64",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Interaction between Varroa destructor and imidacloprid reduces flight capacity of honeybees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.9w0vt4bbg",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Interaction of field realistic doses of clothianidin and Varroa destructor parasitism on adult honey bee (Apis mellifera L.) health and neural gene expression, and antagonistic effects on differentially expressed genes)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.r7sqv9s92",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Negative effects of neonicotinoids on male honeybee survival, behaviour and physiology in the field)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.f4qrfj76b",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Landscape and climate-associated selection in the native and widespread bumblebee, Bombus terrestris and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.f8c5r7q",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: One size does not fit all: caste and sex differences in the response of bumblebees (Bombus impatiens) to chronic oral neonicotinoid exposure)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.xd2547dkn",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data to accompany from: Effects of neonicotinoid seed treatments on wildbee populations and soybean and corn fields in eastern Ontario)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.r7122",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: High-throughput monitoring of wild bee diversity and abundance via mitogenomics and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.td03f",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: A large-scale field study examining effects of exposure to clothianidin seed-treated canola on honey bee colony health, development, and overwintering success)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.cfxpnvx84",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Pollinators, pests and yield – multiple trade-offs from insecticide use in a mass-flowering crop)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.rf510",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Exotic flies maintain pollination services as native pollinators decline with agricultural expansion and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.bs515",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Neonicotinoid insecticides can serve as inadvertent insect contraceptives)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.5g39r",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Direct and pollinator-mediated effects of herbivory on strawberry and the potential for improved resistance and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.rr4xgxdck",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Sub-lethal but potentially devastating – The novel insecticide flupyradifurone impairs collective brood care in bumblebees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.pc866t1s4",
+    "category": "exclude",
+    "reason": "The abstract concerns Agricultural margins could enhance landscape connectivity for pollinating insects across the Central Valley of California, U.S.A and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.2fqz612m2",
+    "category": "exclude",
+    "reason": "The abstract concerns Enhancing pollination is more effective than increased conventional agriculture inputs for improving watermelon yields and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.4h4b82m",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Organic management in apple orchards: higher impacts on biological control than on pollination and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.00000005q",
+    "category": "exclude",
+    "reason": "The abstract concerns Agroecological farming, flowering phenology and the pollinator-herbivore-parasitoid nexus regulate non-crop plant reproduction and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.3600k",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Chronic exposure to a neonicotinoid increases expression of antimicrobial peptide genes in the bumblebee Bombus impatiens)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.1c59zw44r",
+    "category": "exclude",
+    "reason": "The abstract concerns Close to the edge: Spatial variation in plant diversity, biomass and floral resources in conventional and agri-environment cereal fields and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.mm4m722",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Effects of neonicotinoid insecticide exposure and monofloral diet on nest-founding bumblebee queens)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.fqz612jwq",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Pest management science often disregards farming system complexities and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.3xsj3txx6",
+    "category": "exclude",
+    "reason": "The abstract concerns Data from: Landscape context and management intensity influence arthropods, herbivory, and yield in maize and milpa agroecosystems and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.66t1g1k6r",
+    "category": "exclude",
+    "reason": "The abstract measures temperature responses in harlequin bugs and reports no pesticide/toxicant exposure or bee outcome."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.xpnvx0kd8",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Datasets used to support the work presented in: Beringer, C.J., K.W. Goyne, R.N. Lerch, E.B. Webb, and D. Mengel. 2020: Clothianidin decomposition in Missouri wetland soils. J. Environ. Qual. JEQ-2020-05-0167-TR)."
+  },
+  {
+    "identifier": "doi:10.25338/B8061X",
+    "category": "exclude",
+    "reason": "The abstract concerns Multiple Benefits from Agricultural and Natural Land Covers in the Central Valley, CA and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.qbzkh18f4",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: To bee or not to bee: the “raison d’être” of toxic secondary compounds in the pollen of Boraginaceae)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.0cfxpnwfn",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data and code from: Eusocial bee species are exposed to different toxic element profiles despite foraging within the same landscape)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.c8b66",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: The reluctant visitor: an alkaloid in toxic nectar can reduce olfactory learning and memory in Asian honey bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.g45n6v3",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Linden (Tilia cordata) associated bumble bee mortality: metabolomic analysis of nectar and bee muscle)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.ghx3ffbms",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Metal pollutants have additive negative effects on honey bee cognition)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.h44j0zpsx",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Pollen chemical and mechanical defences restrict host-plant use by bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.tb2rbnzz6",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Impact of dietary treatments on longevity and body weight of Apis mellifera winter bees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.k98sf7mkv",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Reducing honey bee winter mortality with molybdenum supplementation: field evidence across Europe)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.b5mkkwhdq",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (The dose makes the poison: feeding of antibiotic-treated winter honey bees, Apis mellifera, with probiotics and b-vitamins)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.cjsxksn79",
+    "category": "exclude",
+    "reason": "The abstract concerns Algal growth, bumblebee colony and individual development, bee behavior and yield of oilseed rape under a trophic cascade and extreme weather and does not describe bee outcomes under explicit pesticide/toxicant treatment or chemical-exposure measurements."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.4b8gthtk7",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Data from: Understanding the caffeine paradox: caffeinated nectar increases pollinators’ perceived value of flowers)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.6p46m",
+    "category": "field_exposure",
+    "reason": "The abstract reports field or landscape chemical residues, exposure, or pesticide-risk context with bee/pollinator observations, rather than a controlled dose-response experiment (Data from: Plant toxin levels in nectar vary spatially across native and introduced populations)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.2jm63xspz",
+    "category": "chemical_response",
+    "reason": "The abstract describes bees exposed to a named pesticide or other chemical and reports a measured survival, behavior, development, reproductive, physiological, molecular, or mixture-response endpoint (Specialized metabolites in floral resources: effects and detection in buff-tailed bumblebees)."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.mc72688",
+    "category": "exclude",
+    "reason": "The abstract evaluates quantum dots as pollen-tracking labels, not pesticide/toxicant effects on bees."
+  },
+  {
+    "identifier": "doi:10.5061/dryad.ttdz08m92",
+    "category": "exclude",
+    "reason": "The abstract models bee-derived melittin pore formation in red-blood-cell membranes, not bee chemical exposure or pesticide response."
+  }
+]

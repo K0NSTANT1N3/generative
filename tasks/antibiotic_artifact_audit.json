@@ -1,0 +1,763 @@
+{
+  "audit_date": "2026-10-23",
+  "cell": {
+    "doi": "10.1016/j.cell.2025.07.033",
+    "dataset_license": {
+      "id": "cc-by-4.0"
+    },
+    "files": [
+      {
+        "key": "F-CReM-F1_all.csv",
+        "size": 40449285,
+        "checksum": "md5:9ae854f6a50e470a281b9d7d4dd019ae",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/F-CReM-F1_all.csv/content"
+        }
+      },
+      {
+        "key": "F-CReM-F2_all.csv",
+        "size": 18119268,
+        "checksum": "md5:d42dab590278769fdfae9b7806879cad",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/F-CReM-F2_all.csv/content"
+        }
+      },
+      {
+        "key": "F-CReM-F2'_all.csv",
+        "size": 6886369,
+        "checksum": "md5:280d1b9239cc4b638e729ba291661519",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/F-CReM-F2'_all.csv/content"
+        }
+      },
+      {
+        "key": "F-VAE-F2_all.csv",
+        "size": 199888827,
+        "checksum": "md5:d72ef49ef1c785b1c394ef042d501919",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/F-VAE-F2_all.csv/content"
+        }
+      },
+      {
+        "key": "F-VAE-F2'_all.csv",
+        "size": 1013247768,
+        "checksum": "md5:de901ff1a45f9c1c9d48eef7fe8bd3fe",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/F-VAE-F2'_all.csv/content"
+        }
+      },
+      {
+        "key": "F-VAE-F1_all.csv",
+        "size": 398559508,
+        "checksum": "md5:5106cf8c0e66acdf04bce1b1e7ef62f9",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/F-VAE-F1_all.csv/content"
+        }
+      },
+      {
+        "key": "GDB11-27M.csv",
+        "size": 532923582,
+        "checksum": "md5:e6a5c3e0793c437ad7348f2066a9466b",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/GDB11-27M.csv/content"
+        }
+      },
+      {
+        "key": "Synthesis-NMR-MS-of-all-active-compounds.docx",
+        "size": 8654863,
+        "checksum": "md5:cc4fb22fec86eebe91a0e8d2035a7049",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/Synthesis-NMR-MS-of-all-active-compounds.docx/content"
+        }
+      },
+      {
+        "key": "CReM-de-novo_all.csv",
+        "size": 48556440,
+        "checksum": "md5:a50567931fce81b19dc4a507047aaf91",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/CReM-de-novo_all.csv/content"
+        }
+      },
+      {
+        "key": "Frags-Enamine-18M.csv",
+        "size": 743059443,
+        "checksum": "md5:94c80eaa76026db4a59e8e05713d7652",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/Frags-Enamine-18M.csv/content"
+        }
+      },
+      {
+        "key": "JT-VAE-de-novo_all.csv",
+        "size": 1344367703,
+        "checksum": "md5:3b0a86e1cc77b633be046252e7c28ac0",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/JT-VAE-de-novo_all.csv/content"
+        }
+      },
+      {
+        "key": "NG1-4X-MIC-RNAseq.xlsx",
+        "size": 1293968,
+        "checksum": "md5:9426e0b9b32c73f2dca558bf328e8101",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/NG1-4X-MIC-RNAseq.xlsx/content"
+        }
+      },
+      {
+        "key": "PRIDE_access_to_PISA_assay_NG1_on_Ngonorrhoeae.txt",
+        "size": 441,
+        "checksum": "md5:4bb79dc68de849f6038956e213a1b75f",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/PRIDE_access_to_PISA_assay_NG1_on_Ngonorrhoeae.txt/content"
+        }
+      },
+      {
+        "key": "IMR90_Chemprop_Model.zip",
+        "size": 820747632,
+        "checksum": "md5:a6823168fd24afd81e19543ee41dfdc7",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/IMR90_Chemprop_Model.zip/content"
+        }
+      },
+      {
+        "key": "HepG2_Chemprop_Model.zip",
+        "size": 820643377,
+        "checksum": "md5:f8f15ec64bb2ce1ab4693d9b66ef9665",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/HepG2_Chemprop_Model.zip/content"
+        }
+      },
+      {
+        "key": "Staphylococcus_aureus_Chemprop_Model.zip",
+        "size": 819732389,
+        "checksum": "md5:09711bb97f918e5f471511b48bcf609a",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/Staphylococcus_aureus_Chemprop_Model.zip/content"
+        }
+      },
+      {
+        "key": "Neisseria_gonorrhoeae_Chemprop_Model.zip",
+        "size": 429058069,
+        "checksum": "md5:82cf85d8efe4926a0702ef1066e6e2c9",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/Neisseria_gonorrhoeae_Chemprop_Model.zip/content"
+        }
+      },
+      {
+        "key": "HSkMC_Chemprop_Model.zip",
+        "size": 820771064,
+        "checksum": "md5:387a43e428f93a97b30ec20532c382c8",
+        "links": {
+          "self": "https://zenodo.org/api/records/15191826/files/HSkMC_Chemprop_Model.zip/content"
+        }
+      }
+    ],
+    "repo_tree": "78e7bcbb0c4a0334eadee2c6d0ca95d4846ce81c",
+    "ng_zip_manifest": [
+      {
+        "name": "Neisseria_gonorrhoeae/",
+        "size": 0,
+        "compressed": 0,
+        "offset": 0
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/.DS_Store",
+        "size": 10244,
+        "compressed": 1393,
+        "offset": 84
+      },
+      {
+        "name": "__MACOSX/Neisseria_gonorrhoeae/._.DS_Store",
+        "size": 120,
+        "compressed": 53,
+        "offset": 1586
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/",
+        "size": 0,
+        "compressed": 0,
+        "offset": 1759
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/data/",
+        "size": 0,
+        "compressed": 0,
+        "offset": 1855
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_3.pt",
+        "size": 9235189,
+        "compressed": 8572580,
+        "offset": 1944
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_4.pt",
+        "size": 9235189,
+        "compressed": 8573284,
+        "offset": 8574653
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_5.pt",
+        "size": 9235189,
+        "compressed": 8572382,
+        "offset": 17148066
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_2.pt",
+        "size": 9235189,
+        "compressed": 8572524,
+        "offset": 25720577
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_0.pt",
+        "size": 9235189,
+        "compressed": 8574188,
+        "offset": 34293230
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_7.pt",
+        "size": 9235189,
+        "compressed": 8572693,
+        "offset": 42867547
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/args.json",
+        "size": 4388,
+        "compressed": 1368,
+        "offset": 51440369
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_8.pt",
+        "size": 9235189,
+        "compressed": 8569888,
+        "offset": 51441858
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_6.pt",
+        "size": 9235189,
+        "compressed": 8571999,
+        "offset": 60011875
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_1.pt",
+        "size": 9235189,
+        "compressed": 8572392,
+        "offset": 68584003
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_1.pt",
+        "size": 9235189,
+        "compressed": 8573910,
+        "offset": 77156524
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_6.pt",
+        "size": 9235189,
+        "compressed": 8569016,
+        "offset": 85730563
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/.DS_Store",
+        "size": 6148,
+        "compressed": 379,
+        "offset": 94299708
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_9.pt",
+        "size": 9235189,
+        "compressed": 8572047,
+        "offset": 94300208
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_7.pt",
+        "size": 9235189,
+        "compressed": 8573519,
+        "offset": 102872384
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_0.pt",
+        "size": 9235189,
+        "compressed": 8574310,
+        "offset": 111446032
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_2.pt",
+        "size": 9235189,
+        "compressed": 8572065,
+        "offset": 120020471
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_5.pt",
+        "size": 9235189,
+        "compressed": 8572904,
+        "offset": 128592665
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_4.pt",
+        "size": 9235189,
+        "compressed": 8571181,
+        "offset": 137165698
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_3.pt",
+        "size": 9235189,
+        "compressed": 8572350,
+        "offset": 145737008
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_9.pt",
+        "size": 9235189,
+        "compressed": 8572824,
+        "offset": 154309487
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_8.pt",
+        "size": 9235189,
+        "compressed": 8571961,
+        "offset": 162882440
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_6.pt",
+        "size": 9235189,
+        "compressed": 8570991,
+        "offset": 171454530
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_2.pt",
+        "size": 9235189,
+        "compressed": 8570155,
+        "offset": 180025650
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_3.pt",
+        "size": 9235189,
+        "compressed": 8571541,
+        "offset": 188595934
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_8.pt",
+        "size": 9235189,
+        "compressed": 8572044,
+        "offset": 197167604
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_9.pt",
+        "size": 9235189,
+        "compressed": 8573626,
+        "offset": 205739777
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_7.pt",
+        "size": 9235189,
+        "compressed": 8569361,
+        "offset": 214313532
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_8.pt",
+        "size": 9235189,
+        "compressed": 8573476,
+        "offset": 222883022
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_9.pt",
+        "size": 9235189,
+        "compressed": 8572123,
+        "offset": 231456627
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_0.pt",
+        "size": 9235189,
+        "compressed": 8573713,
+        "offset": 240028879
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_4.pt",
+        "size": 9235189,
+        "compressed": 8571955,
+        "offset": 248602721
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_5.pt",
+        "size": 9235189,
+        "compressed": 8572193,
+        "offset": 257174805
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_9.pt",
+        "size": 9235189,
+        "compressed": 8572819,
+        "offset": 265747127
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_8.pt",
+        "size": 9235189,
+        "compressed": 8572822,
+        "offset": 274320075
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_4_1.pt",
+        "size": 9235189,
+        "compressed": 8571158,
+        "offset": 282893026
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_2.pt",
+        "size": 9235189,
+        "compressed": 8573688,
+        "offset": 291464313
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_5.pt",
+        "size": 9235189,
+        "compressed": 8569973,
+        "offset": 300038130
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_4.pt",
+        "size": 9235189,
+        "compressed": 8573418,
+        "offset": 308608232
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_3.pt",
+        "size": 9235189,
+        "compressed": 8573574,
+        "offset": 317181779
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_1.pt",
+        "size": 9235189,
+        "compressed": 8570821,
+        "offset": 325755482
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_6.pt",
+        "size": 9235189,
+        "compressed": 8572994,
+        "offset": 334326432
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_7.pt",
+        "size": 9235189,
+        "compressed": 8573669,
+        "offset": 342899555
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_0.pt",
+        "size": 9235189,
+        "compressed": 8574336,
+        "offset": 351473353
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_0.pt",
+        "size": 9235189,
+        "compressed": 8572811,
+        "offset": 360047818
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_7.pt",
+        "size": 9235189,
+        "compressed": 8573661,
+        "offset": 368620758
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_6.pt",
+        "size": 9235189,
+        "compressed": 8571862,
+        "offset": 377194548
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_1.pt",
+        "size": 9235189,
+        "compressed": 8572505,
+        "offset": 385766539
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_0_3.pt",
+        "size": 9235189,
+        "compressed": 8574151,
+        "offset": 394339173
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_3_4.pt",
+        "size": 9235189,
+        "compressed": 8571465,
+        "offset": 402913453
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_2_5.pt",
+        "size": 9235189,
+        "compressed": 8572357,
+        "offset": 411485047
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/checkpoints/model_fold_1_2.pt",
+        "size": 9235189,
+        "compressed": 8572483,
+        "offset": 420057533
+      },
+      {
+        "name": "Neisseria_gonorrhoeae/data/neisseria_gonorrhoeae_binarized.csv",
+        "size": 3122293,
+        "compressed": 419931,
+        "offset": 428630145
+      },
+      {
+        "name": "__MACOSX/Neisseria_gonorrhoeae/data/._neisseria_gonorrhoeae_binarized.csv",
+        "size": 288,
+        "compressed": 151,
+        "offset": 429050216
+      }
+    ],
+    "sa_zip_manifest": [
+      {
+        "name": "Staphylococcus_aureus/",
+        "size": 0,
+        "compressed": 0,
+        "offset": 0
+      },
+      {
+        "name": "Staphylococcus_aureus/.DS_Store",
+        "size": 6148,
+        "compressed": 516,
+        "offset": 84
+      },
+      {
+        "name": "__MACOSX/Staphylococcus_aureus/._.DS_Store",
+        "size": 120,
+        "compressed": 53,
+        "offset": 709
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/",
+        "size": 0,
+        "compressed": 0,
+        "offset": 882
+      },
+      {
+        "name": "Staphylococcus_aureus/data/",
+        "size": 0,
+        "compressed": 0,
+        "offset": 978
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_3.pt",
+        "size": 44070930,
+        "compressed": 40968117,
+        "offset": 1067
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_7.pt",
+        "size": 44070930,
+        "compressed": 40979217,
+        "offset": 40969306
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/args.json",
+        "size": 0,
+        "compressed": 0,
+        "offset": 81948645
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_18.pt",
+        "size": 44070930,
+        "compressed": 40960514,
+        "offset": 81948766
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_6.pt",
+        "size": 44070930,
+        "compressed": 40971392,
+        "offset": 122909403
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/.DS_Store",
+        "size": 6148,
+        "compressed": 178,
+        "offset": 163880917
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_19.pt",
+        "size": 44070930,
+        "compressed": 40977897,
+        "offset": 163881216
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_2.pt",
+        "size": 44070930,
+        "compressed": 40950691,
+        "offset": 204859236
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_9.pt",
+        "size": 44070930,
+        "compressed": 40965688,
+        "offset": 245810049
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_16.pt",
+        "size": 44070930,
+        "compressed": 40962070,
+        "offset": 286775859
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_12.pt",
+        "size": 44070930,
+        "compressed": 40971161,
+        "offset": 327738052
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_13.pt",
+        "size": 44070930,
+        "compressed": 40971964,
+        "offset": 368709336
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_8.pt",
+        "size": 44070930,
+        "compressed": 40973576,
+        "offset": 409681423
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_17.pt",
+        "size": 44070930,
+        "compressed": 40963792,
+        "offset": 450655121
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_10.pt",
+        "size": 44070930,
+        "compressed": 40970074,
+        "offset": 491619036
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_14.pt",
+        "size": 44070930,
+        "compressed": 40972514,
+        "offset": 532589233
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_15.pt",
+        "size": 44070930,
+        "compressed": 40974592,
+        "offset": 573561870
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_11.pt",
+        "size": 44070930,
+        "compressed": 40968579,
+        "offset": 614536585
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_5.pt",
+        "size": 44070930,
+        "compressed": 40969075,
+        "offset": 655505287
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_1.pt",
+        "size": 44070930,
+        "compressed": 40964590,
+        "offset": 696474484
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_0.pt",
+        "size": 44070930,
+        "compressed": 40965593,
+        "offset": 737439196
+      },
+      {
+        "name": "Staphylococcus_aureus/checkpoints/model_4.pt",
+        "size": 44070930,
+        "compressed": 40960674,
+        "offset": 778404911
+      },
+      {
+        "name": "Staphylococcus_aureus/data/staph_aureus_binarized.csv",
+        "size": 3164955,
+        "compressed": 362685,
+        "offset": 819365707
+      },
+      {
+        "name": "__MACOSX/Staphylococcus_aureus/data/._staph_aureus_binarized.csv",
+        "size": 344,
+        "compressed": 191,
+        "offset": 819728523
+      }
+    ],
+    "ng_config": {
+      "batch_size": 50,
+      "cuda": true,
+      "depth": 5,
+      "dropout": 0.25,
+      "ensemble_size": 10,
+      "epochs": 30,
+      "extra_metrics": [
+        "auc"
+      ],
+      "ffn_num_layers": 2,
+      "gpu": 0,
+      "hidden_size": 800,
+      "metric": "prc-auc",
+      "num_folds": 5,
+      "split_sizes": [
+        0.8,
+        0.1,
+        0.1
+      ],
+      "split_type": "scaffold_balanced"
+    },
+    "csv_counts": {
+      "NG": 38650,
+      "SA": 39390
+    },
+    "upstream_chembl_files": {
+      "multiobj-rationale": {
+        "rows": 1488640,
+        "bytes": 71032918,
+        "url": "https://raw.githubusercontent.com/wengong-jin/multiobj-rationale/master/data/chembl/all.txt"
+      },
+      "hgraph2graph": {
+        "rows": 1799433,
+        "bytes": 84418662,
+        "url": "https://raw.githubusercontent.com/wengong-jin/hgraph2graph/master/data/chembl/all.txt"
+      }
+    },
+    "combined_pdf": {
+      "url": "https://dspace.mit.edu/server/api/core/bitstreams/9304af65-0046-46d7-b12d-0887479b25bd/content",
+      "size": 46829511,
+      "pages": 71
+    }
+  },
+  "jacs": {
+    "doi": "10.1021/jacsau.5c00602",
+    "repo_tree": "153e013331e58bf4b30f5a4fea3fdd4423ab7fa8",
+    "supplement": {
+      "doi": "10.1021/jacsau.5c00602.s001",
+      "license": {
+        "value": 10,
+        "name": "CC BY-NC 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "files": [
+        {
+          "id": 57800888,
+          "name": "au5c00602_si_001.pdf",
+          "size": 5419172,
+          "is_link_only": false,
+          "download_url": "https://ndownloader.figshare.com/files/57800888",
+          "supplied_md5": "def3330c3f70015d0aaa17ba5fff7c5f",
+          "computed_md5": "def3330c3f70015d0aaa17ba5fff7c5f",
+          "mimetype": "application/pdf"
+        }
+      ]
+    },
+    "generator_commit": "694824c8a6af0964461c7cc0846c0be994c4363e",
+    "source_counts": {
+      "ChEMBL_original_rows": 369860,
+      "ChEMBL_length_1_to_140_rows": 365063,
+      "MEGx_rows": 2931,
+      "fine_tune_rows": 131,
+      "accumulation_rows": 133
+    }
+  }
+}
